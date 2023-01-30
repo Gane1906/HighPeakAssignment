@@ -1,0 +1,17 @@
+Sample Input: 2
+Enter the number of Jobs
+3
+Enter job start time, end time, and earnings
+0900
+1000
+250
+0945
+1200
+550
+1130
+1500
+150
+Sample Output: 2
+The number of tasks and earnings available for others
+Task: 2
+Earnings: 400
